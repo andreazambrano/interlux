@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"Left"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"as",
+				"assets"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"I",
+				"Imdris"
+			],
+			[
+				"bene",
+				"beneficio"
+			],
+			[
+				"bg",
+				"bg-shape"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"what",
+				"whatsapp-icon"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"insta",
+				"Instalaciones"
+			],
+			[
+				"inge",
+				"Ingeniería"
+			],
+			[
+				"ven",
+				"ventiluzconstructora"
+			],
+			[
+				"ing",
+				"Ingeniería"
+			],
+			[
+				"bucka",
+				"Buckapi"
+			],
+			[
+				"web",
+				"website"
+			],
+			[
+				"ins",
+				"instagram"
+			],
+			[
+				"image",
+				"image01"
+			],
+			[
+				"logo",
+				"logoBlak"
+			],
+			[
+				"ca",
+				"cost-calculator-area"
+			],
+			[
+				"seguridad",
+				"seguridadAlimentaria"
+			],
+			[
+				"ju",
+				"justify-all\ttext-align"
+			],
+			[
+				"bot",
+				"button\tTag"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"segui",
+				"seguridadAlimentaria"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"ab",
+				"about"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ch",
+				"charset"
+			],
+			[
+				"carpet",
+				"carpet-cleaning"
+			],
+			[
+				"comm",
+				"commercial-1"
+			],
+			[
+				"hou",
+				"house"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/paqueteria/index2.html",
+		"/var/www/html/paqueteria/index.html",
+		"/var/www/html/paqueteria/assets/js/vendor/jquery.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/particles.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/ponyfill.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/popper.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/progress-radial.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/shuffle.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/slider.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/animation.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/bootstrap.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/bricklayer.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/cookie-notice.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/gallery.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/jquery.inview.min.js",
+		"/var/www/html/paqueteria/assets/js/vendor/jquery.easyn.min.js",
+		"/var/www/html/paqueteria/asstets/css/vendor/animation.min.css",
+		"/var/www/html/paqueteria/asstets/css/vendor/slider.min.css",
+		"/var/www/html/paqueteria/assets/js/main.js",
+		"/var/www/html/paqueteria/asstets/css/vendor/bootstrap.min.css",
+		"/var/www/html/paqueteria/asstets/css/vendor/cookie-notice.min.css",
+		"/var/www/html/paqueteria/asstets/css/vendor/gallery.min.css",
+		"/var/www/html/paqueteria/asstets/css/vendor/icons-fa.min.css",
+		"/var/www/html/paqueteria/asstets/css/vendor/icons.min.css",
+		"/var/www/html/paqueteria/asstets/css/main.css",
+		"/var/www/html/paqueteria/asstets/css/defaul.css",
+		"/var/www/html/sad/index.html",
+		"/var/www/html/saddlery/index.html",
+		"/var/www/html/mudanza1/index.html",
+		"/var/www/html/mudanza1/landing.html",
+		"/var/www/html/mudanza1/partner.html",
+		"/var/www/html/mudanza1/priceing.html",
+		"/var/www/html/mudanza1/service-single-page-tab.html",
+		"/var/www/html/mudanza1/service.html",
+		"/var/www/html/mudanza1/single-service-page.html",
+		"/var/www/html/mudanza1/team.html",
+		"/var/www/html/mudanza1/testimonials.html",
+		"/var/www/html/mudanza1/404.html",
+		"/var/www/html/mudanza1/about-us.html",
+		"/var/www/html/mudanza1/blog-details.html",
+		"/var/www/html/mudanza1/blog.html",
+		"/var/www/html/mudanza1/carrers.html",
+		"/var/www/html/mudanza1/contact-us.html",
+		"/var/www/html/mudanza1/fonts/fontawesome-webfont.svg",
+		"/var/www/html/mudanza1/faq.html",
+		"/var/www/html/mudanza1/index-2.html",
+		"/var/www/html/mudanza1/index-3.html",
+		"/var/www/html/landing2/index.html",
+		"/var/www/html/landing2/assets/css/style.css",
+		"/var/www/html/imdris/our-work.html",
+		"/var/www/html/imdris/planeacion.html",
+		"/var/www/html/imdris/salud.html",
+		"/var/www/html/imdris/seguridadAlimentaria.html",
+		"/var/www/html/imdris/seguridadEnergetica.html",
+		"/var/www/html/imdris/seguridadHidrica.html",
+		"/var/www/html/imdris/about-2.html",
+		"/var/www/html/imdris/about.html",
+		"/var/www/html/imdris/index.html",
+		"/var/www/html/imdris/contact.html",
+		"/var/www/html/imdris/biblioteca.html",
+		"/var/www/html/imdris/campañas.html",
+		"/var/www/html/imdris/comunidades.html",
+		"/home/iPhone/projects/mobiledash/src/app/services/data-api.service.ts",
+		"/home/iPhone/projects/mobiledash/src/app/components/orders/orders.component.html",
+		"/home/iPhone/projects/mobiledash/src/app/components/topbar/topbar.component.html",
+		"/home/iPhone/projects/mobiledash/src/app/components/index.paginas.ts",
+		"/home/iPhone/projects/mobiledash/src/app/app.routes.ts",
+		"/var/www/html/ventiluz/blog-details.html",
+		"/var/www/html/buckapi/admin.html",
+		"/var/www/html/landing2/assets/css/all.min.css",
+		"/var/www/html/landing2/assets/css/responsive.css",
+		"/var/www/html/buckapi/css/font-awesome.min.css",
+		"/var/www/html/buckapi/contact.html",
+		"/var/www/html/buckapi/css/style.css",
+		"/var/www/html/landing2/index-4.html",
+		"/var/www/html/landing2/assets/font/flaticon.css",
+		"/var/www/html/imdris/css/style.css",
+		"/var/www/html/seodo/about.html",
+		"/var/www/html/imdris/news-single.html",
+		"/var/www/html/imdris/news.html",
+		"/var/www/html/imdris/services-offers.html",
+		"/var/www/html/imdris/campaigns.html",
+		"/var/www/html/imdris/explore-farming.html",
+		"/var/www/html/imdris/farming-issues.html",
+		"/var/www/html/imdris/css/bootstrap.min.css",
+		"/var/www/html/imdris/css/swiper.min.css",
+		"/var/www/html/organizacion/css/bootstrap.min.css",
+		"/var/www/html/organizacion/index.html",
+		"/var/www/html/imdris/js/bootstrap.min.js",
+		"/var/www/html/organizacion/css/style.css",
+		"/var/www/html/sanito/assets/css/bootstrap.css",
+		"/var/www/html/sanito/assets/css/font-awesome-all.css",
+		"/var/www/html/sanito/assets/css/jquery-ui.css",
+		"/var/www/html/sanito/assets/css/color.css",
+		"/var/www/html/imdris/js/scripts.js",
+		"/var/www/html/sanito/assets/css/style.css",
+		"/var/www/html/sanito/index.html",
+		"/var/www/html/buckapi/index.html",
+		"/var/www/html/buckapi/js/main.js",
+		"/var/www/html/ventiluz/index.html",
+		"/var/www/html/ventiluz/comunicaciones.html",
+		"/var/www/html/ventiluz/assets/css/style.css",
+		"/var/www/html/ventiluz/assets/js/main.js",
+		"/var/www/html/ventiluz/assets/css/vendor/iconfont.min.css",
+		"/var/www/html/buckapi/shops/index.html",
+		"/var/www/html/buckapi/andespro.html",
+		"/var/www/html/buckapi/equos.html",
+		"/var/www/html/buckapi/infor.html",
+		"/var/www/html/buckapi/jkd.html",
+		"/var/www/html/buckapi/medida.html",
+		"/var/www/html/buckapi/portafolio.html",
+		"/var/www/html/buckapi/portafolios.html",
+		"/var/www/html/buckapi/sohigh.html",
+		"/var/www/html/buckapi/team.html",
+		"/var/www/html/buckapi/portafolio/portfolio.html",
+		"/var/www/html/buckapi/portafolio/css/style.css",
+		"/var/www/html/buckapi/aleña.html",
+		"/var/www/html/buckapi/portafolio/css/responsive.css",
+		"/var/www/html/ventiluz/higiene.html",
+		"/var/www/html/ventiluz/energia.html",
+		"/var/www/html/ventiluz/cost-calculator.html",
+		"/var/www/html/ventiluz/contact-2.html",
+		"/var/www/html/ventiluz/civiles.html",
+		"/var/www/html/ventiluz/about-2.html",
+		"/var/www/html/ventiluz/project.html",
+		"/var/www/html/ventiluz/assets/js/vendor/bootstrap.min.js",
+		"/var/www/html/ventiluz/index-8.html",
+		"/var/www/html/ventiluz/contact.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about-us.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ventiluz/blog-details.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
